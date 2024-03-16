@@ -1,0 +1,19 @@
+body 
+{
+    font-family: sans-serif;
+    background-color: aquamarine;
+}
+
+.imagenes-container 
+{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.imagenes-container .imagenes img 
+{
+    width: 100px;
+    height: 100px;
+}
